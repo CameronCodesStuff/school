@@ -6,3 +6,5 @@ How to download; Code, Download zip
 "Index.html" runs the main file if HTML script.
 
 Toolbox.zip is batch scripts I have made.
+
+Download Quiz.html to play my quiz.
