@@ -5,12 +5,13 @@ Welcome to my toolbox! This repository contains a collection of useful batch scr
 ## 📥 How to Download
 
 You can download the files in two ways:
-### 1. **Clone the repository**
+### 1. **Download Zip**
+There should be a green button in the top right saying "Code" click it then click download zip.
+
+### 2. **Clone the repository**
 
 If you prefer using Git, simply clone the repository using the following command:
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 
-### 1. **Downnload Zip** 
-Code, Download zip which should be in the top right.
