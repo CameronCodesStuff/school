@@ -13,5 +13,5 @@ There should be a green button in the top right saying "Code" click it then clic
 If you prefer using Git, simply clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/CameronCodesStuff/school/tree/main
 
